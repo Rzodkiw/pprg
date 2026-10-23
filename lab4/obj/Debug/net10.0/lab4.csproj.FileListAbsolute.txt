@@ -1,0 +1,14 @@
+Z:\pprg\lab4\bin\Debug\net10.0\lab4.exe
+Z:\pprg\lab4\bin\Debug\net10.0\lab4.deps.json
+Z:\pprg\lab4\bin\Debug\net10.0\lab4.runtimeconfig.json
+Z:\pprg\lab4\bin\Debug\net10.0\lab4.dll
+Z:\pprg\lab4\bin\Debug\net10.0\lab4.pdb
+Z:\pprg\lab4\obj\Debug\net10.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pprg\lab4\obj\Debug\net10.0\lab4.AssemblyInfoInputs.cache
+Z:\pprg\lab4\obj\Debug\net10.0\lab4.AssemblyInfo.cs
+Z:\pprg\lab4\obj\Debug\net10.0\lab4.csproj.CoreCompileInputs.cache
+Z:\pprg\lab4\obj\Debug\net10.0\lab4.dll
+Z:\pprg\lab4\obj\Debug\net10.0\refint\lab4.dll
+Z:\pprg\lab4\obj\Debug\net10.0\lab4.pdb
+Z:\pprg\lab4\obj\Debug\net10.0\lab4.genruntimeconfig.cache
+Z:\pprg\lab4\obj\Debug\net10.0\ref\lab4.dll

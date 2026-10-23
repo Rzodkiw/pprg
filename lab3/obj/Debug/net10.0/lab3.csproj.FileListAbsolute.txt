@@ -1,0 +1,14 @@
+Z:\pprg\lab3\bin\Debug\net10.0\lab3.exe
+Z:\pprg\lab3\bin\Debug\net10.0\lab3.deps.json
+Z:\pprg\lab3\bin\Debug\net10.0\lab3.runtimeconfig.json
+Z:\pprg\lab3\bin\Debug\net10.0\lab3.dll
+Z:\pprg\lab3\bin\Debug\net10.0\lab3.pdb
+Z:\pprg\lab3\obj\Debug\net10.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pprg\lab3\obj\Debug\net10.0\lab3.AssemblyInfoInputs.cache
+Z:\pprg\lab3\obj\Debug\net10.0\lab3.AssemblyInfo.cs
+Z:\pprg\lab3\obj\Debug\net10.0\lab3.csproj.CoreCompileInputs.cache
+Z:\pprg\lab3\obj\Debug\net10.0\lab3.dll
+Z:\pprg\lab3\obj\Debug\net10.0\refint\lab3.dll
+Z:\pprg\lab3\obj\Debug\net10.0\lab3.pdb
+Z:\pprg\lab3\obj\Debug\net10.0\lab3.genruntimeconfig.cache
+Z:\pprg\lab3\obj\Debug\net10.0\ref\lab3.dll

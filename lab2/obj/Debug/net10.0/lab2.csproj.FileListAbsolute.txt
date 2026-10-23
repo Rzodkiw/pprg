@@ -1,0 +1,14 @@
+Z:\pprg\lab2\obj\Debug\net10.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pprg\lab2\obj\Debug\net10.0\lab2.AssemblyInfoInputs.cache
+Z:\pprg\lab2\obj\Debug\net10.0\lab2.AssemblyInfo.cs
+Z:\pprg\lab2\obj\Debug\net10.0\lab2.csproj.CoreCompileInputs.cache
+Z:\pprg\lab2\bin\Debug\net10.0\lab2.exe
+Z:\pprg\lab2\bin\Debug\net10.0\lab2.deps.json
+Z:\pprg\lab2\bin\Debug\net10.0\lab2.runtimeconfig.json
+Z:\pprg\lab2\bin\Debug\net10.0\lab2.dll
+Z:\pprg\lab2\bin\Debug\net10.0\lab2.pdb
+Z:\pprg\lab2\obj\Debug\net10.0\lab2.dll
+Z:\pprg\lab2\obj\Debug\net10.0\refint\lab2.dll
+Z:\pprg\lab2\obj\Debug\net10.0\lab2.pdb
+Z:\pprg\lab2\obj\Debug\net10.0\lab2.genruntimeconfig.cache
+Z:\pprg\lab2\obj\Debug\net10.0\ref\lab2.dll

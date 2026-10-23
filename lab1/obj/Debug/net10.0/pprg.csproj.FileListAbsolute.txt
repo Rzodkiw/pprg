@@ -1,0 +1,14 @@
+z:\pprg\bin\Debug\net10.0\pprg.exe
+z:\pprg\bin\Debug\net10.0\pprg.deps.json
+z:\pprg\bin\Debug\net10.0\pprg.runtimeconfig.json
+z:\pprg\bin\Debug\net10.0\pprg.dll
+z:\pprg\bin\Debug\net10.0\pprg.pdb
+z:\pprg\obj\Debug\net10.0\pprg.GeneratedMSBuildEditorConfig.editorconfig
+z:\pprg\obj\Debug\net10.0\pprg.AssemblyInfoInputs.cache
+z:\pprg\obj\Debug\net10.0\pprg.AssemblyInfo.cs
+z:\pprg\obj\Debug\net10.0\pprg.csproj.CoreCompileInputs.cache
+z:\pprg\obj\Debug\net10.0\pprg.dll
+z:\pprg\obj\Debug\net10.0\refint\pprg.dll
+z:\pprg\obj\Debug\net10.0\pprg.pdb
+z:\pprg\obj\Debug\net10.0\pprg.genruntimeconfig.cache
+z:\pprg\obj\Debug\net10.0\ref\pprg.dll
