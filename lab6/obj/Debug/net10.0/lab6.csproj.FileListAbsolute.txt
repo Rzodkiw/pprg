@@ -1,0 +1,14 @@
+Z:\pprg\lab6\bin\Debug\net10.0\lab6.exe
+Z:\pprg\lab6\bin\Debug\net10.0\lab6.deps.json
+Z:\pprg\lab6\bin\Debug\net10.0\lab6.runtimeconfig.json
+Z:\pprg\lab6\bin\Debug\net10.0\lab6.dll
+Z:\pprg\lab6\bin\Debug\net10.0\lab6.pdb
+Z:\pprg\lab6\obj\Debug\net10.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pprg\lab6\obj\Debug\net10.0\lab6.AssemblyInfoInputs.cache
+Z:\pprg\lab6\obj\Debug\net10.0\lab6.AssemblyInfo.cs
+Z:\pprg\lab6\obj\Debug\net10.0\lab6.csproj.CoreCompileInputs.cache
+Z:\pprg\lab6\obj\Debug\net10.0\lab6.dll
+Z:\pprg\lab6\obj\Debug\net10.0\refint\lab6.dll
+Z:\pprg\lab6\obj\Debug\net10.0\lab6.pdb
+Z:\pprg\lab6\obj\Debug\net10.0\lab6.genruntimeconfig.cache
+Z:\pprg\lab6\obj\Debug\net10.0\ref\lab6.dll
