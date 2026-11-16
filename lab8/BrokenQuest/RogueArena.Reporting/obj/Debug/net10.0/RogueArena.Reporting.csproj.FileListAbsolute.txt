@@ -1,0 +1,15 @@
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\bin\Debug\net10.0\RogueArena.Reporting.deps.json
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\bin\Debug\net10.0\RogueArena.Reporting.dll
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\bin\Debug\net10.0\RogueArena.Reporting.pdb
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\bin\Debug\net10.0\RogueArena.Core.dll
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\bin\Debug\net10.0\RogueArena.Core.pdb
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueArena.Reporting.csproj.AssemblyReference.cache
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueArena.Reporting.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueArena.Reporting.AssemblyInfoInputs.cache
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueArena.Reporting.AssemblyInfo.cs
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueArena.Reporting.csproj.CoreCompileInputs.cache
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueAre.485DA464.Up2Date
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueArena.Reporting.dll
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\refint\RogueArena.Reporting.dll
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\RogueArena.Reporting.pdb
+Z:\pprg\lab8\BrokenQuest\RogueArena.Reporting\obj\Debug\net10.0\ref\RogueArena.Reporting.dll
