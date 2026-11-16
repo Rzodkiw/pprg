@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7b4/6wdpFhc=",
+  "success": true,
+  "projectFilePath": "Z:\\pprg\\lab8\\RogueArena\\RogueArena.Core\\RogueArena.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s38253\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\s38253\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\s38253\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
