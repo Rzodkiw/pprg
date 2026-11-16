@@ -1,0 +1,14 @@
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.AssemblyInfoInputs.cache
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.AssemblyInfo.cs
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.csproj.CoreCompileInputs.cache
+Z:\pprg\lab8\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.exe
+Z:\pprg\lab8\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.deps.json
+Z:\pprg\lab8\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.runtimeconfig.json
+Z:\pprg\lab8\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.dll
+Z:\pprg\lab8\DungeonOrganizer\bin\Debug\net10.0\DungeonOrganizer.pdb
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.dll
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\refint\DungeonOrganizer.dll
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.pdb
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\DungeonOrganizer.genruntimeconfig.cache
+Z:\pprg\lab8\DungeonOrganizer\obj\Debug\net10.0\ref\DungeonOrganizer.dll
